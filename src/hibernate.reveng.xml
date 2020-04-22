@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-schema="PONCE" match-name="AGENDA"/>
+  <table-filter match-schema="PONCE" match-name="AUTORES"/>
+  <table-filter match-schema="PONCE" match-name="CONTACTS"/>
+  <table-filter match-schema="PONCE" match-name="DE_GENERO"/>
+  <table-filter match-schema="PONCE" match-name="ESTADISTICAS"/>
+  <table-filter match-schema="PONCE" match-name="LIBROS"/>
+  <table-filter match-schema="PONCE" match-name="PELICULA"/>
+  <table-filter match-schema="PONCE" match-name="SOPORTE"/>
+</hibernate-reverse-engineering>
